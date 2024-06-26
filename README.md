@@ -41,4 +41,6 @@ Calculates an individual’s net salary by taking inputs for basic salary and be
 Open index.html in a web browser.
 Enter the basic salary and benefits when prompted.
 The salary details will be displayed as an alert.
-Author
+
+## Author
+MAIMUNA MOHAMED ADAN
